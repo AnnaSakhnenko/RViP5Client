@@ -1,0 +1,8 @@
+c:\users\анна\documents\visual studio 2013\Projects\AITest\AITest\bin\Debug\AITest.exe.config
+c:\users\анна\documents\visual studio 2013\Projects\AITest\AITest\bin\Debug\AITest.exe
+c:\users\анна\documents\visual studio 2013\Projects\AITest\AITest\bin\Debug\AITest.pdb
+c:\users\анна\documents\visual studio 2013\Projects\AITest\AITest\bin\Debug\Apache.Ignite.Core.dll
+c:\users\анна\documents\visual studio 2013\Projects\AITest\AITest\bin\Debug\Apache.Ignite.Core.xml
+c:\users\анна\documents\visual studio 2013\Projects\AITest\AITest\obj\Debug\AITest.csprojResolveAssemblyReference.cache
+c:\users\анна\documents\visual studio 2013\Projects\AITest\AITest\obj\Debug\AITest.exe
+c:\users\анна\documents\visual studio 2013\Projects\AITest\AITest\obj\Debug\AITest.pdb
